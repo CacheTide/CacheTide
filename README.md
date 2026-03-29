@@ -3,9 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F5A9B8,5BCEFA,ffffff&height=250&section=header&text=NyaHello!%20I'm%20CacheTide~&fontSize=50&fontAlignY=35&desc=A%20cute%20developer%20passing%20by%20%E2%9C%A8&descAlignY=55&descAlign=50&fontColor=ffffff" />
 </div>
 
-<!-- 欢迎 GIF -->
+<br>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/mGvrkoG4W7Xmo/giphy.gif" width="200" />
+  <h3> 🌸 我的博客 / My Blog 🌸 </h3>
+  <p>欢迎来我的博客做客：</p>
+  <a href="https://cachetide.github.io/">
+    <img src="https://img.shields.io/badge/Blog-CacheTide-F5A9B8?style=for-the-badge&logo=hexo&logoColor=white&color=5BCEFA&labelColor=F5A9B8" alt="My Blog" />
+  </a>
 </div>
 
 <br>
@@ -25,11 +30,6 @@
 </div>
 
 <br>
-
-<!-- 底部动图 -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM0NTY3ODkwMTIzNDU2Nzg5MDEyMzQ1Njc4OTAxMjM0NTY3ODkwMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/14aUO0KQmWmX4B/giphy.gif" width="150" />
-</div>
 
 <!-- 访客计数器 -->
 <div align="center">
