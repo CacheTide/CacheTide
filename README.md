@@ -30,7 +30,7 @@
       <td width="300px" align="center" valign="center">
         <!-- 这里的图片你可以换成你最喜欢的二次元角色 (建议宽高比 1:1 或竖图) -->
         <!-- 下面是一个通用的编程动漫少女 GIF -->
-        <img src="https://github.com/user-attachments/assets/7316d2b0-a724-40e8-a5b3-39bbd354c2b4" width="100%" alt="Anime Coding" style="border-radius: 10px; box-shadow: 0 0 10px #F5A9B8;" />
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Anime Coding" style="border-radius: 10px; box-shadow: 0 0 10px #F5A9B8;" />
         <br/><br/>
         <p align="center"><i>"Code is poetry..."</i></p>
       </td>
