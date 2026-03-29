@@ -3,19 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F5A9B8,5BCEFA,ffffff&height=250&section=header&text=NyaHello!%20I'm%20CacheTide~&fontSize=50&fontAlignY=35&desc=A%20cute%20developer%20passing%20by%20%E2%9C%A8&descAlignY=55&descAlign=50&fontColor=ffffff" />
 </div>
 
-<br>
-
+<!-- 用户头像 -->
 <div align="center">
-  <h3> 🌸 我的博客 / My Blog 🌸 </h3>
-  <p>欢迎来我的博客做客：</p>
-  <a href="https://cachetide.github.io/">
-    <img src="https://img.shields.io/badge/Blog-CacheTide-F5A9B8?style=for-the-badge&logo=hexo&logoColor=white&color=5BCEFA&labelColor=F5A9B8" alt="My Blog" />
-  </a>
+  <img src="https://github.com/CacheTide.png" width="150" style="border-radius: 50%;" alt="CacheTide Avatar" />
 </div>
 
 <br>
 
-<h3 align="center"> 🛠️ 魔法技能树 / Tech Stack </h3>
+<h3 align="center"> 🛠️ 魔法���能树 / Tech Stack </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,react,vue,nodejs,git,linux&theme=light" />
 </div>
