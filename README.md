@@ -3,14 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F5A9B8,5BCEFA,ffffff&height=250&section=header&text=NyaHello!%20I'm%20CacheTide~&fontSize=50&fontAlignY=35&desc=A%20cute%20developer%20passing%20by%20%E2%9C%A8&descAlignY=55&descAlign=50&fontColor=ffffff" />
 </div>
 
-<!-- 用户头像 -->
+<!-- 用户头像与个性标签 -->
 <div align="center">
   <img src="https://github.com/CacheTide.png" width="150" style="border-radius: 50%;" alt="CacheTide Avatar" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Pronouns-She%2FHer-F5A9B8?style=for-the-badge&logoColor=white&color=5BCEFA&labelColor=F5A9B8" alt="MTF" />
+  <img src="https://img.shields.io/badge/ACGN-%E4%BA%8C%E6%AC%A1%E5%85%83-FFB6C1?style=for-the-badge&logo=bilibili&logoColor=white" alt="ACGN" />
 </div>
 
 <br>
 
-<h3 align="center"> 🛠️ 魔法���能树 / Tech Stack </h3>
+<h3 align="center"> 🛠️ 魔法技能树 / Tech Stack </h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,react,vue,nodejs,git,linux&theme=light" />
 </div>
